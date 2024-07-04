@@ -1,1 +1,1 @@
-# blog
+# DodiTech - DEV Blog
